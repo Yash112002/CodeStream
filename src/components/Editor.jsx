@@ -100,7 +100,7 @@ const Editor = ({ socketRef, roomId, onCodeChange }) => {
   return (
     <>
       <h3 className="m-2">#Write your code here...</h3>
-      <textarea id="realtimeEditor"></textarea>
+      <textarea id="realtimeEditor" placeholder="//code here"></textarea>
       <div className="d-flex m-4">
         <label className="mx-3" htmlFor="mode-select">
           Choose Language :{" "}
