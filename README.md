@@ -1,4 +1,6 @@
-[https://codestream.onrender.com/](url)# CodeStream - Real-time Collaborative Code Editor
+# CodeStream - Real-time Collaborative Code Editor
+
+Open codestream : [https://codestream.onrender.com/](url)
 
 CodeStream is a real-time collaborative code editor that enables multiple users to work simultaneously on the same codebase. It ensures seamless real-time synchronization of code changes across multiple users, making it an ideal tool for team collaborations and remote development.
 
