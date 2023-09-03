@@ -93,7 +93,7 @@ const Home = () => {
 
 "
           >
-            Yash | lemfro
+            Vikas Goyal
           </a>{" "}
           💚
         </h4>
