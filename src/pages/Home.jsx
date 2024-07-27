@@ -89,11 +89,11 @@ const Home = () => {
         <h4>
           &#169; created by{" "}
           <a
-            href="https://www.linkedin.com/in/yash-b43334213
+            href="https://www.linkedin.com/in/
 
 "
           >
-            Vikas Goyal
+            Krishna
           </a>{" "}
           💚
         </h4>
